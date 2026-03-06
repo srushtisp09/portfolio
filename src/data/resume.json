@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Srushti Pattanshetti",
+    "title": "AIML Student | Java Developer | Open Source Contributor",
+    "summary": "Currently learning Machine Learning. Work in Progress.",
+    "location": "Bengaluru, Karnataka, India",
+    "email": "srushtipattanshetti99@gmail.com",
+    "phone": "",
+    "links": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/srushti-pattanshetti-ab7707336",
+        "username": "srushti-pattanshetti-ab7707336"
+      }
+    ]
+  },
+  "experience": [],
+  "achievements": [],
+  "projects": [],
+  "skills": [
+    {
+      "group": "Technical",
+      "items": [
+        "Java",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "group": "Soft Skills",
+      "items": [
+        "Singing",
+        "Public Speaking",
+        "Communication"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "New Horizon College of Engineering",
+      "degree": "Bachelor of Engineering - BE, Artificial Intelligence",
+      "dates": "September 2024 - December 2028",
+      "location": "Bengaluru"
+    },
+    {
+      "institution": "Expert Group of Institutions",
+      "degree": "PCMC",
+      "dates": "",
+      "location": ""
+    },
+    {
+      "institution": "St. Theresa School Belagavi",
+      "degree": "Schooling",
+      "dates": "June 2009 - March 2021",
+      "location": "Belagavi"
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "extra": [
+    "Page 1 of 1"
+  ]
+}
